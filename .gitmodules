@@ -1,0 +1,3 @@
+[submodule "PVKMC"]
+	path = PVKMC
+	url = https://github.com/AnterCreeper/PVKMC.git
