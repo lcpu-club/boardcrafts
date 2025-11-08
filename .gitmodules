@@ -1,3 +1,6 @@
 [submodule "PVKMC"]
 	path = PVKMC
 	url = https://github.com/AnterCreeper/PVKMC.git
+[submodule "vyos-bpi-r4"]
+	path = vyos-bpi-r4
+	url = https://github.com/KawaiiNetworks/vyos-bpi-r4
